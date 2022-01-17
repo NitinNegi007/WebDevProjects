@@ -1,0 +1,128 @@
+.top-container {
+  background-color: #FEECE9;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.myimage {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hobby {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.about-myself {
+  width: 50%;
+  margin: 0 auto 100px auto;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 30%;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.bottom-container {
+  text-decoration-color: #11999E;
+  background-color: #7CD1B8;
+  margin-top: 75px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.contact-me {
+  margin-top: 75px;
+}
+
+.btn {
+  margin-top: 75px;
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+a+a {
+  margin-left: 30px;
+}
